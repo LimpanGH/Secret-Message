@@ -1,5 +1,6 @@
 # Secret-Message
 Codecademy https://www.codecademy.com/courses/introduction-to-javascript/projects/secret-message 
+Documentaion: https://www.codecademy.com/resources/docs/javascript/arrays
 
 Using array methods, you will transform an array of strings into a secret message!
 
